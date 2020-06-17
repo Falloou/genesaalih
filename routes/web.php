@@ -36,12 +36,17 @@ Route::get('/partenaires', function () {
     return view('partenaires');
 
 });
-Route::get('/mediatheque', function () {
-    return view('mediatheque');
+Route::get('/about', function () {
+    return view('about');
 
 });
 Route::get('/daara&metier', function () {
     return view('daara&metier');
 
 });
+Route::get('/blog-single', function () {
+    return view('blog-single');
+
+});
+
 

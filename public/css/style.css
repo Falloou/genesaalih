@@ -506,6 +506,10 @@
                     content: "\2014\00A0";
                 }
                 
+                .img-logo {
+                    max-width: 90px;
+                }
+                
                 .img-fluid {
                     max-width: 100%;
                     height: auto;
@@ -2750,35 +2754,35 @@
                 
                 .btn-primary {
                     color: #fff;
-                    background-color: #007bff;
-                    border-color: #007bff;
+                    background-color: #28a745;
+                    border-color: #28a745;
                 }
                 
                 .btn-primary:hover {
                     color: #fff;
-                    background-color: #0069d9;
-                    border-color: #0062cc;
+                    background-color: #28a745;
+                    border-color: #28a745;
                 }
                 
                 .btn-primary:focus,
                 .btn-primary.focus {
-                    -webkit-box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
-                    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+                    -webkit-box-shadow: 0 0 0 0.2rem #28a745;
+                    box-shadow: 0 0 0 0.2rem #28a745;
                 }
                 
                 .btn-primary.disabled,
                 .btn-primary:disabled {
                     color: #fff;
-                    background-color: #007bff;
-                    border-color: #007bff;
+                    background-color: #28a745;
+                    border-color: #28a745;
                 }
                 
                 .btn-primary:not(:disabled):not(.disabled):active,
                 .btn-primary:not(:disabled):not(.disabled).active,
                 .show>.btn-primary.dropdown-toggle {
                     color: #fff;
-                    background-color: #0062cc;
-                    border-color: #005cbf;
+                    background-color: #28a745;
+                    border-color: #28a745;
                 }
                 
                 .btn-primary:not(:disabled):not(.disabled):active:focus,
@@ -8831,6 +8835,10 @@
                     padding-right: 1rem !important;
                 }
                 
+                .px-3 p {
+                    color: #fff !important;
+                }
+                
                 .pb-3,
                 .py-3 {
                     padding-bottom: 1rem !important;
@@ -10781,7 +10789,6 @@
                     font-size: 11px;
                     width: 100%;
                     display: block;
-                    text-transform: uppercase;
                     letter-spacing: 1px;
                 }
                 
@@ -10857,10 +10864,13 @@
                 .ftco-navbar-light .navbar-nav>.nav-item>.don {
                     background-color: #28a745;
                     color: #fff;
+                    border-radius: 30px;
                 }
                 
                 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-                    color: #28a745;
+                    color: #fff;
+                    background: #28a745;
+                    border-radius: 30px;
                 }
                 
                 .ftco-navbar-light .navbar-nav>.nav-item>.don:hover {
@@ -10897,12 +10907,14 @@
                     font-size: 14px;
                     color: #fff;
                     background: #28a745;
+                    border-radius: 30px;
                 }
                 
                 .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item:hover,
                 .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item:focus {
                     background: #fff;
                     color: #28a745;
+                    border-radius: 30px;
                 }
                 
                 .ftco-navbar-light .navbar-nav>.nav-item.ftco-seperator {
@@ -10989,6 +11001,24 @@
                 
                 .ftco-navbar-light.scrolled .nav-item.active>a {
                     color: #28a745 !important;
+                }
+                
+                .ftco-navbar-light.scrolled .nav-item>a:hover {
+                    background: #28a745;
+                    color: #fff !important;
+                    ;
+                    border-radius: 30px;
+                }
+                
+                .ftco-navbar-light.scrolled .nav-item>a {
+                    color: #28a745 !important;
+                }
+                
+                .ftco-navbar-light.scrolled .nav-item.active>a:hover {
+                    background: #28a745;
+                    color: #fff !important;
+                    ;
+                    border-radius: 30px;
                 }
                 
                 .ftco-navbar-light.scrolled .nav-item.cta>a {
@@ -11472,19 +11502,35 @@
                 }
                 
                 .bg-color-1 {
-                    background: #e4b2d6;
+                    background: #fff;
                 }
                 
                 .bg-color-2 {
-                    background: #dcc698;
+                    background: #fff;
                 }
                 
                 .bg-color-3 {
-                    background: #a2d1e1;
+                    background: #fff;
                 }
                 
                 .bg-color-4 {
-                    background: #dcd691;
+                    background: #fff;
+                }
+                
+                .bg-color-5 {
+                    background: #28a745;
+                }
+                
+                .bg-color-6 {
+                    background: #28a745;
+                }
+                
+                .bg-color-7 {
+                    background: #28a745;
+                }
+                
+                .bg-color-8 {
+                    background: #28a745;
                 }
                 
                 .btn {
@@ -11509,24 +11555,28 @@
                     background: #28a745;
                     border: 1px solid #28a745;
                     color: #fff;
+                    border-color: #28a745;
                 }
                 
                 .btn.btn-primary:hover {
                     border: 1px solid #28a745;
                     background: transparent;
                     color: #28a745;
+                    border-color: #28a745;
                 }
                 
                 .btn.btn-primary.btn-outline-primary {
                     border: 1px solid #28a745;
                     background: transparent;
                     color: #28a745;
+                    border-color: #28a745;
                 }
                 
                 .btn.btn-primary.btn-outline-primary:hover {
                     border: 1px solid transparent;
                     background: #28a745;
                     color: #fff;
+                    border-color: #28a745;
                 }
                 
                 .btn.btn-white {
@@ -11569,6 +11619,7 @@
                     border: 1px solid #000000;
                     background: transparent;
                     color: #000000;
+                    border-color: #28a745;
                 }
                 
                 .btn.btn-black.btn-outline-white:hover {
@@ -11591,7 +11642,7 @@
                 .img-2 .icon {
                     width: 100px;
                     height: 100px;
-                    background: #000000;
+                    background: #28a745;
                     -webkit-animation: pulse 2s infinite;
                     animation: pulse 2s infinite;
                     -webkit-border-radius: 50%;
@@ -11620,11 +11671,16 @@
                         padding-left: 3em;
                     }
                 }
-                
-                .wrap-about .heading-section-bold h2 {
+                .wrap-about .heading-section-bold h2.cwhite{
                     font-size: 40px;
                     font-weight: 600;
-                    color: #000000;
+                    color: #fff;
+                }
+                
+                .wrap-about .heading-section-bold h2{
+                    font-size: 40px;
+                    font-weight: 600;
+                    color: #28a745;
                 }
                 
                 .deal-of-the-day h3 {
@@ -12482,6 +12538,7 @@
                     font-size: 14px;
                     padding: 7em 0;
                     color: #000000;
+                    background: #28a745;
                 }
                 
                 .ftco-footer .ftco-footer-logo {
@@ -12523,8 +12580,8 @@
                     height: 50px;
                     width: 50px;
                     display: block;
+                    background: #fff;
                     float: left;
-                    background: rgba(0, 0, 0, 0.02);
                     border-radius: 50%;
                     position: relative;
                 }
@@ -12541,7 +12598,8 @@
                 }
                 
                 .ftco-footer-social li a:hover {
-                    color: #000000;
+                    color: #28a745;
+                    background: #000;
                 }
                 
                 #map {
@@ -12682,6 +12740,16 @@
                 }
                 
                 .ftco-services .services .icon span {
+                    font-size: 50px;
+                    color: #28a745;
+                    -moz-transition: all 0.3s ease;
+                    -o-transition: all 0.3s ease;
+                    -webkit-transition: all 0.3s ease;
+                    -ms-transition: all 0.3s ease;
+                    transition: all 0.3s ease;
+                }
+                
+                .ftco-services .services .icons span {
                     font-size: 50px;
                     color: #fff;
                     -moz-transition: all 0.3s ease;
@@ -13642,13 +13710,34 @@
                     right: 0;
                     bottom: 0;
                 }
+                #top {
+                    background: #eee;
+                    border-bottom: 1px solid #ddd;
+                    padding: 0 10px;
+                    line-height: 40px;
+                    font-size: 12px;
+                }
                 
                 .fc-header-toolbar {
                     /*
-  the calendar will be butting up against the edges,
-  but let's scoot in the header's buttons
-  */
+                the calendar will be butting up against the edges,
+                but let's scoot in the header's buttons
+                */
                     padding-top: 1em;
                     padding-left: 1em;
                     padding-right: 1em;
+                }
+                
+                .carousel.slide.carousel-multi-item.v-2 {}
+                
+                .equipeslieu {
+                    color: #28a745;
+                }
+                
+                .bg-green {
+                    background-color: #28a745;
+                }
+                
+                #more {
+                    display: none;
                 }
