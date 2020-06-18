@@ -68,7 +68,7 @@
 						Copyright &copy;
                         <script>
                             document.write(new Date().getFullYear());
-                        </script> Génération Saalih by <a href="#" target="_blank"> OUTETE &amp; GORGUI</a>
+                        </script> Génération Saalih by <a href="#" target="_blank"> OUTETE </a> &amp; <a href="#" target="_blank">  GORGUI
 
                     </p>
                 </div>
