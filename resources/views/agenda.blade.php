@@ -127,7 +127,7 @@
                     },
                     {
                     title: 'Atélier national à Touba',
-                    start: '2020-08-15T20:00:00'
+                    start: '2020-08-15T10:00:00'
                     },
                     {
                     title: 'Aniversaire',

@@ -63,8 +63,8 @@
                         </div>
                     </div>
                     <div class="pb-md-5">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                        <p>But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+                        <p>Monsieur Fallou NIANG, coordonnateur National et fondateur de Génération Saalih, a des compétences avérées dans le domaine de la formation, de l’appui à l’insertion et de l’animation économique. Il est un produit du Daara en alliant la formation coranique et l’école républicaine dans son cursus de 
+                            Formation.</p>
                         <p class='btns'><a href="about" class="btn btn-primary">Plus</a></p>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Fatou kiné Mbaye MBACKE</p>
                                     <span class="position">Maroc</span>
-                                    <p  class="text text-center">+222 </p>
+                                    <p  class="text text-center">+221 77 843 39 19</p>
                                     
                                 </div>
                             </div>
@@ -104,7 +104,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Modou Fatma MBOW</p>
                                     <span class="position">Kébémer</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 70 975 76 94 </p>
                                 </div>
                             </div>
                         </div>
@@ -120,7 +120,7 @@
                                 
                                     <p class="name"> Bintou Rassoul SALHA</p>
                                     <span class="position">Dakar</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 77 372 56 47</p>
                                 </div>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Sidi &nbsp; KOUME </p>
                                     <span class="position">Mbacké</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 77 577 47 40</p>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +154,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Mame Thierni DIENG</p>
                                     <span class="position">France</span>
-                                    <p  class="text text-center">+33 </p>
+                                    <p  class="text text-center">+33 6 50 63 57 16</p>
                                 </div>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Penda &nbsp; NDIAYE</p>
                                     <span class="position">Thiès</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 77 565 75 55</p>
                                 </div>
                             </div>
                         </div>
@@ -189,7 +189,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Fambaye MBACKE </p>
                                     <span class="position">Genève</span>
-                                    <p  class="text text-center">+00 </p>
+                                    <p  class="text text-center">+41 79 550 38 35</p>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                                 <div class="text text-center">
                                     <p class="name">Fallou &nbsp; NDIAYE</p>
                                     <span class="position">Saint Louis</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 77 289 34 96 </p>
                                 </div>
                             </div>
                         </div>
@@ -215,7 +215,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Ibrahima &nbsp; BA</p>
                                     <span class="position">Touba</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 76 682 49 06</p>
                                 </div>
                             </div>
                         </div>
@@ -237,7 +237,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Amadou &nbsp; DIOP  </p>
                                     <span class="position">Rufisque</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 77 421 17 77 </p>
                                 </div>
                             </div>
                         </div>
@@ -250,7 +250,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Aminata NDIAYE </p>
                                     <span class="position">Louga</span>
-                                    <p  class="text text-center">+221 </p>
+                                    <p  class="text text-center">+221 77 105 90 95</p>
                                 </div>
                             </div>
                         </div>
@@ -263,7 +263,7 @@
                                 <div class="text text-center">
                                     <p class="name"> Bassirou &nbsp; FALL</p>
                                     <span class="position">Ziguinchor</span>
-                                    <p  class="text text-center">+221</p>
+                                    <p  class="text text-center">+221 77 618 28 01</p>
                                 </div>
                             </div>
                         </div>

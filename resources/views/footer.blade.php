@@ -10,8 +10,8 @@
             <div class="row mb-5">
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">saalih</h2>
-                        <p>un talibé, un métier</p>
+                        <h2 class="ftco-heading-2">Génération Saalih</h2>
+                        <p>Un Talibé, Un Métier</p>
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                             <li class="ftco-animate"><a href="https://twitter.com/generationsaal1" target = "_blank" ><span class="icon-twitter"></span></a></li>
                             <li class="ftco-animate"><a href="https://www.facebook.com/generationsaalih/" target = "_blank" ><span class="icon-facebook"></span></a></li>
@@ -26,24 +26,22 @@
                     <div class="ftco-footer-widget mb-4 ml-md-5">
                         <h2 class="ftco-heading-2">Menu</h2>
                         <ul class="list-unstyled">
-                            <li><a href="#" class="py-2 d-block">daara &amp; métier</a></li>
-                            <li><a href="#" class="py-2 d-block">génération saalih</a></li>
-                            <li><a href="#" class="py-2 d-block">agenda</a></li>
-                            <li><a href="#" class="py-2 d-block">Contact</a></li>
-                            <li><a href="#" class="py-2 d-block">donation</a></li>
+                            <li><a href="daara&metier" class="py-2 d-block">Actu daara &amp; métier</a></li>
+                            <li><a href="about" class="py-2 d-block">génération saalih</a></li>
+                            <li><a href="https://www.gs-funds.org" target = "_blank" class="py-2 d-block">gs fonds</a></li>
+                            <li><a href="don" class="py-2 d-block">donation</a></li> 
                         </ul>
                     </div>
                 </div>
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Aide</h2>
+                        <h2 class="ftco-heading-2">Menu</h2>
                         <div class="d-flex">
                             <ul class="list-unstyled mr-l-5 pr-l-3 mr-4">
-                                <li><a href="#" class="py-2 d-block">information</a></li>
-                                
-                                <li><a href="#" class="py-2 d-block">équipes &amp; conditions</a></li>
-                                <li><a href="#" class="py-2 d-block">
-									politique de confidentialité</a></li>
+                            <li><a href="agenda" class="py-2 d-block">agenda</a></li>
+                            <li><a href="equipes" class="py-2 d-block">équipes </a></li>
+                            <li><a href="contact" class="py-2 d-block">Contact</a></li>
+                            <li><a href="partenaires" class="py-2 d-block">partenaires</a></li>
                             </ul>
                             
                         </div>

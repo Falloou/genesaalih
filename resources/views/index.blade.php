@@ -68,9 +68,9 @@
         <div class="container">
             <div class=" justify-content-end">
                 <div class="col-md-6 heading-section deal-of-the-day ftco-animate">
-                    <span class="subheading">Dans nos agenda</span>
-                    <h2 class="mb-4">Ordre du jour</h2>
-                    <h3><a href="#">Serigne saliou</a></h3>
+                    <span class="subheading">Dans l'agenda de</span>
+                    <h2 class="mb-4">Génération Saalih</h2>
+                    <h3><a href="#">Atélier national à Touba</a></h3>
                     
                     <div id="timer" class="d-flex mt-5">
                         <div class="time" id="days"></div>
