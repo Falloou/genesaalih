@@ -133,12 +133,6 @@
                 </div>
                 
                 <div class="col-sm ftco-animate">
-                    <a href="http://www.cfptouba.sch-ci.org/" target = "_blank"  class="partner"><img src="images/cfp.jpg" class="img-fluid" alt="#"></a>
-                </div>
-                <div class="col-sm ftco-animate">
-                    <a href="#" target = "_blank"  class="partner"><img src="images/utum.png" class="img-fluid" alt="#"></a>
-                </div>
-                <div class="col-sm ftco-animate">
                     <a href="http://anpej.sn/" target = "_blank"  class="partner"><img src="images/anpej.png" class="img-fluid" alt="#"></a>
                 </div>
                 
