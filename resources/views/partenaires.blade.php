@@ -77,11 +77,29 @@
                     <a href="http://www.mefpa.gouv.sn/3fpt/" target = "_blank"  class="partner"><img src="https://generationsaalih.com/public/img/partner/15869523573fpt.jpg" class="img-fluid" alt="#"></a>
                 </div>
                 <div class="col-sm ftco-animate">
+                    <a href="https://www.facebook.com/jokkonourou/?pageid=1116218781789139&ftentidentifier=2778851225525878&padding=0" target = "_blank"  class="partner"><img src=" https://generationsaalih.com/public/img/partner/1586952484jnd.png" class="img-fluid" alt="#"></a>
+                </div>  
+            </div>
+        </div>
+    </section>
+    <section class="ftco-section ftco-partner">
+        <div class="container">
+            <div class="row">
+                 <div class="col-sm ftco-animate">
+                    <a href="http://www.cfptouba.sch-ci.org/" target = "_blank"  class="partner"><img src="images/cfp.jpg" class="img-fluid" alt="#"></a>
+                </div>
+                <div class="col-sm ftco-animate">
+                    <a href="#" target = "_blank"  class="partner"><img src="images/utum.png" class="img-fluid" alt="#"></a>
+                </div>
+                <div class="col-sm ftco-animate">
                     <a href="https://www.facebook.com/abaithiafricaagroBusiness/" target = "_blank"  class="partner"><img src="https://generationsaalih.com/public/img/partner/1586952388abaf.jpg" class="img-fluid" alt="#"></a>
                 </div>  
             </div>
         </div>
     </section>
+                
+                
+    
     
 
     <!-- footer -->

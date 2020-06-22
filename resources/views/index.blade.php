@@ -133,6 +133,12 @@
                 </div>
                 
                 <div class="col-sm ftco-animate">
+                    <a href="http://www.cfptouba.sch-ci.org/" target = "_blank"  class="partner"><img src="images/cfp.jpg" class="img-fluid" alt="#"></a>
+                </div>
+                <div class="col-sm ftco-animate">
+                    <a href="#" target = "_blank"  class="partner"><img src="images/utum.png" class="img-fluid" alt="#"></a>
+                </div>
+                <div class="col-sm ftco-animate">
                     <a href="http://anpej.sn/" target = "_blank"  class="partner"><img src="images/anpej.png" class="img-fluid" alt="#"></a>
                 </div>
                 
@@ -155,7 +161,7 @@
                     <div class="carousel-testimony owl-carousel">
                         <div class="item">
                             <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-5" style="background-image: url(https://generationsaalih.com/public/img/testimonial/1587150580testi1.jpeg)">
+                                <div class="user-img mb-5" style="background-image: url(images/omardiallo.jpeg)">
                                     <span class="quote d-flex align-items-center justify-content-center">
                                     <i class="icon-quote-left"></i>
                                     </span>
@@ -175,7 +181,7 @@
                         
                         <div class="item">
                             <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-5" style="background-image: url(https://generationsaalih.com/public/img/testimonial/1587552661unnamed.png)" >
+                                <div class="user-img mb-5" style="background-image: url(images/abyseye.jpeg)" >
                                     <span class="quote d-flex align-items-center justify-content-center">
                                         <i class="icon-quote-left"></i></span>
                                 </div>
@@ -191,7 +197,7 @@
                         </div>
                         <div class="item">
                             <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-5" style="background-image: url(https://generationsaalih.com/public/img/testimonial/1587469254test.jpg)">
+                                <div class="user-img mb-5" style="background-image: url(images/aminadiagne.jpeg)">
                                     <span class="quote d-flex align-items-center justify-content-center">
                                         <i class="icon-quote-left"></i></span>
                                 </div>
@@ -213,7 +219,7 @@
                     <div class="carousel-testimony owl-carousel">
                         <div class="item">
                             <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-5" style="background-image: url(https://generationsaalih.com/public/img/testimonial/1587150409testi.jpeg)">
+                                <div class="user-img mb-5" style="background-image: url(images/serignebousso.jpeg)">
                                     <span class="quote d-flex align-items-center justify-content-center">
                                     <i class="icon-quote-left"></i>
                                     </span>
@@ -230,15 +236,21 @@
                         </div>
                         <div class="item">
                             <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-5" style="background-image: url(https://generationsaalih.com/public/img/testimonial/1587469254test.jpg)">
+                                <div class="user-img mb-5" style="background-image: url(images/mamadoumbaye.jpeg)">
                                     <span class="quote d-flex align-items-center justify-content-center">
                                         <i class="icon-quote-left"></i></span>
                                 </div>
                                 <div class="text text-center">
-                                    <p class="name">Amina Diagne</p>
-                                    <span class="position">Coach, PDG de MinaPro</span>
-                                    <p class="mb-5 pl-4 line">Excellent programme, je me suis toujours demandée quel futur possible pour les talibés qui deviennent adolescents. A mon avis, 
-                                    <p class="mb-5 pl-4 line collapse multi-collapse" id="temoin4">il faut soutenir davantage des initiatives comme celle-ci !Juste pour dire que je me porte volontaire pour donner des formations à l'entrepreneuriat.</p>
+                                    <p class="name">Mamadou Mbaye</p>
+                                    <span class="position">Professeur</span>
+                                    <p class="mb-5 pl-4 line">Le Mouridisme (ou le socialisme noir). 
+
+Cette idéologie de Serigne Touba a été bien comprise par Serigne Fallou Niang et Serigne Moctar Sarr à 
+                                    <p class="mb-5 pl-4 line collapse multi-collapse" id="temoin4">travers ''Génération Saalih''.
+La mission de Serigne Touba est autant cultuelle que socio-économique.
+Les dahiras doivent songer à créer des entreprises et sociétés. Thiant, magal, ziaar, etc. c'est bien mais réfléchissons sur l'insertion socio-professionnelle de nos jeunes frères mourides et non mourides, surtout ceux qui sont (dans) ou fréquentaient les daara ou écoles coraniques.
+Quand on raconte des miracles opérés par Serigne Touba, les condisciples auréolent les conférenciers de millions et de voitures de luxe.
+Si ce que nous faisons est dénué de toute ostentation et d'esprit d'émulation (rivalité), voici un jeune entrepreneur, Serigne Fallou Niang qui va au-delà de raconter des miracles de Serigne Touba mais met en pratique et personnifie sa pensée universelle : la félicité de l'homme d'ici bas et dans l'au-delà.Soutenons ''Génération Saalih'' devant et derrière les écrans.</p>
                                     <p class='btns'><a class="btn btn-primary" data-toggle="collapse" href="#temoin4" role="button" aria-expanded="false" aria-controls="temoin4">Plus</a>
                                     </p>
                                 </div>
@@ -246,7 +258,7 @@
                         </div>
                         <div class="item">
                             <div class="testimony-wrap p-4 pb-5">
-                                <div class="user-img mb-5" style="background-image: url(https://generationsaalih.com/public/img/testimonial/1587150626testi2.jpeg)">
+                                <div class="user-img mb-5" style="background-image: url(images/moctarsarr.jpeg)">
                                     <span class="quote d-flex align-items-center justify-content-center">
                                         <i class="icon-quote-left"></i></span>
                                 </div>
